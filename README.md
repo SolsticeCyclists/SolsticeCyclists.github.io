@@ -1,2 +1,1 @@
-Prototype web site for SolsticeCyclist.org.
-Hack on!
+Prototype web site for SolsticeCyclist.org. More stuff.
