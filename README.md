@@ -6,7 +6,7 @@
 <body>
 <div id="header">
   <div id="banner">
-	<img src="http://solsticecyclist.org/wp-content/uploads/2012/04/photo.jpg" width="920" height="360" alt="" />
+	<img src="cover-photo.jpg" width="920" height="360" alt="" />
   </div>
 </div><!-- #header -->
 <div id="content">
@@ -28,7 +28,7 @@
 <h3>Painting parties</h3>
 <div>
 <p>If you want to organize your own paint-up and you&#8217;re willing to share the experience with new friends, please post to <a href="mailto:SolCycles@yahoogroups.com">SolCycles@yahoogroups.com</a>.  Rendezvous at the start of the parade route (the corner of <a href="https://maps.google.com/maps?q=3rd+Ave+NW+and+NW+36th+St,+Seattle,+WA+98107&amp;hl=en&amp;ll=47.653637,-122.360466&amp;spn=0.012084,0.02208&amp;sll=47.6626,-122.379856&amp;sspn=0.012082,0.02208&amp;t=h&amp;hnear=3rd+Ave+NW+%26+NW+36th+St,+Seattle,+King,+Washington+98107&amp;z=16">3rd Ave NW and NW 36th St</a>) at 12:30pm, painted and ready to kick off the parade! If you don&#8217;t get to the start location before the parade starts moving, circle around to <a href="https://www.google.com/maps/dir/47.6541718,-122.3600046/47.648527,-122.3428059/@47.6518324,-122.3532036,903m/data=!3m1!1e3!4m14!4m13!1m10!3m4!1m2!1d-122.3499466!2d47.6541266!3s0x549015aa5a124fcb:0x337cae47c0172cf!3m4!1m2!1d-122.3426685!2d47.6505479!3s0x54901501bc1f192b:0xf4d05a08b66b5a33!1m0!3e0?hl=en">Stone Way N and N 35th St.</a> and head west on N. 35th St.</p>
-<p>See the <a href="/paint-party-rules/">page on the main paint party</a> if you want to join the bulk of the riders in painting up.</p>
+<p>See the <a href="/paint-party-rules.html">page on the main paint party</a> if you want to join the bulk of the riders in painting up.</p>
 </div>
 <p>&nbsp;</p>
 <h3>Join the community</h3>
