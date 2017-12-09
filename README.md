@@ -1,10 +1,5 @@
 <!DOCTYPE html>
-<!--[if IE 8]>
-<html id="ie8" lang="en-US">
-<![endif]-->
-<!--[if !(IE 8) ]><!-->
 <html lang="en-US">
-<!--<![endif]-->
 <head>
     <meta charset="UTF-8" />
 	<title> Solstice Cyclists</title>
