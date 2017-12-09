@@ -5,16 +5,13 @@
 	<title> Solstice Cyclists</title>
 </head>
 <body>
-			<div id="header">
-				<div id="logo">
-					<div id="site-title"><a href="/" title="Solstice Cyclists" rel="home">Solstice Cyclists</a></div>
-					<div id="site-description"></div>
-				</div>
-				<div id="banner">
-										<img src="http://solsticecyclist.org/wp-content/uploads/2012/04/photo.jpg" width="920" height="360" alt="" />
-								</div>
-			</div><!-- #header -->
+<div id="header">
+  <div id="banner">
+	<img src="http://solsticecyclist.org/wp-content/uploads/2012/04/photo.jpg" width="920" height="360" alt="" />
+  </div>
+</div><!-- #header -->
 <div id="content">
+<h1>This is a work in progress as we move our content to a new server!</h1>
 <h1>The Fremont Solstice Cyclists last rode on Saturday, June 17, 2017!</h1>
 <p>&nbsp;</p>
 <h3>2017 Timeline</h3>
